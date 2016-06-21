@@ -1,6 +1,6 @@
 {
   "name": "actor-emoji",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Emoji spritesheets and data used in actor platform",
   "main": "emoji.js",
   "scripts": {
